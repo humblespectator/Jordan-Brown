@@ -1,14 +1,14 @@
-# Jordan-Brown
- I am an incoming freshman at Baruch College, majoring in Computer Science and a proud fellow of the Karim Karumbouch Coding Fellowship. My technical skills include proficiency in MATLAB, as well as experience with Windows, MacOS, and Linux operating systems. Currently, I am expanding my skills by learning HTML and CSS.
+# Hello! I'm Jordan Brown-Jacobs
+# Pronouns He/Him
+ Aspiring computer scientist with a passion for building smart, creative, and scalable tech. I code for robotics, explore AI and automation, and love turning ideas into working software. I'm also a KKCF Fellow and a rising freshman at Baruch College
 
-I have completed an algebraic calculator project, with more exciting projects to come (links below).
+
+
+I have completed an algebraic calculator project, with more exciting projects to come.
 
 My interests lie in OpenAI, Machine Learning, and Grok, and I am passionate about exploring the future of AI technology.
 
-Fun Facts:
+Fun Facts: I enjoy playing ping pong and tennis and Korean chicken is my favorite food. I also enjoy ping pong and pool.
 
-I enjoy playing ping pong and tennis
-Korean fried chicken is my favorite food!
-Projects:
 
-Algebraic Calculator (https://github.com/humblespectator/Algebriac-Calc)
+Projects: Algebraic Calculator (https://github.com/humblespectator/Algebriac-Calc)
