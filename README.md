@@ -1,4 +1,5 @@
 # Hello! I'm Jordan Brown-Jacobs
+[![Jordan Brown-Jacobs](https://i.imgur.com/f9jGQQX.jpeg)](https://imgur.com/a/jiH6nrK)
 # Pronouns He/Him
  Aspiring computer scientist with a passion for building smart, creative, and scalable tech. I code for robotics, explore AI and automation, and love turning ideas into working software. I'm also a KKCF Fellow and a rising freshman at Baruch College
 
